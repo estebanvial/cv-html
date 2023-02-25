@@ -43,10 +43,9 @@ body {
   padding: 5px 0;
 }
 
-a:-webkit-any-link {
-  color: #fff;
-  cursor: pointer;
+.header .slider .intro button a {
   text-decoration: none;
+  color: #fff;
 }
 
 .header .slider .intro button {
