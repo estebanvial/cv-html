@@ -43,6 +43,12 @@ body {
   padding: 5px 0;
 }
 
+a:-webkit-any-link {
+  color: #fff;
+  cursor: pointer;
+  text-decoration: none;
+}
+
 .header .slider .intro button {
   background: none;
   margin-top: 30px;
