@@ -43,11 +43,6 @@ body {
   padding: 5px 0;
 }
 
-.header .slider .intro button a {
-  text-decoration: none;
-  color: #fff;
-}
-
 .header .slider .intro button {
   background: none;
   margin-top: 30px;
@@ -56,6 +51,11 @@ body {
   border: 2px solid #fff;
   font-weight: bold;
   padding: 10px 20px;
+}
+
+.header .slider .intro button a {
+  text-decoration: none;
+  color: #fff;
 }
 
 .header .navbar {
